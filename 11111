@@ -2,10 +2,10 @@
     --color-0: #ffffff;
   
     --color-1: #ffffff;
-    --color-2: #e3f1af;
-    --color-3: #4bc84b;
-    --color-4: #71da35;
-    --color-5: #cff1af;
+    --color-2: #ffffff;
+    --color-3: #ffffff;
+    --color-4: #ffffff;
+    --color-5: #ffffff;
   
     --logo-URL: url("https://4.bp.blogspot.com/-ih1-uFmH3AQ/XHkGc5zGWhI/AAAAAAAAGd0/HUSUwI1Rj3UhvANiu2VKy0-5tgw5YaR8gCLcBGAs/s1600/%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B4.png");
     --logo-Width: 158px;
